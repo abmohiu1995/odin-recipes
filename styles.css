@@ -1,0 +1,20 @@
+* {
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif
+}
+
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
